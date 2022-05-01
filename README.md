@@ -20,7 +20,7 @@ problem relating to the wavenumber k and the mode shape X.
 
 ## Numerical Results
 
-Running the code to see the numerical results.
+Running the Matlab code to see the numerical results.
 
 - For the infinite rod:
 
